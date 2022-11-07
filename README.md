@@ -1,0 +1,2 @@
+# ladominga
+mi primer repositorio
